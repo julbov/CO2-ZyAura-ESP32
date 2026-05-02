@@ -17,7 +17,7 @@ A simple CO₂ and temperature monitor for the ZyAura **ZGM053U** CO₂ meter.
 
 ## Hardware
 
-- An **ESP32** dev board. I highly recommended the esp32 c3 supermini board, its very compact, and can even fit inside the sensor. It's what I used for this project.
+- An **ESP32**. I recommended the esp32 c3 supermini board, its very compact, and can even fit inside the sensor. It's what I used for this project.
 - A **ZGM053U** CO₂ meter. The sensor gets its own 5 V USB power.
 - Three jumper wires.
 
